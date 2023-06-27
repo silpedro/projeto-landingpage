@@ -1,4 +1,4 @@
-#landingpage
+# landingpage
 Projeto de landing page do curso de desenvolvimento full-stack da DNC.
 Ao clicar para acessar a ementa você é direcionado para o GMAIL, já que eu não tinha o link da ementa.
 
